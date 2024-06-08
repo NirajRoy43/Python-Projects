@@ -4,7 +4,7 @@ STEPS TO FOLLOW :
 pip install pillow
 ```
 
-then
+THEN
 
 ```
 from PIL import Image
